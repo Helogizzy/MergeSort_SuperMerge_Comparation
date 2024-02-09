@@ -4,10 +4,10 @@
 ## Sobre
 Trabalho de Projeto e Análise de Algortimos com a finalidade de avaliar o comportamento dos métodos MergeSort e SuperMerge perante conjuntos de testes com diferentes características. Durante a execuçãoo dos testes o critério de análise será o tempo cronológico gasto para a execução dos métodos.
 
-## MergeSort
+### MergeSort
 Consiste no Merge clássico em que cada iteração o probema é divido ao meio e duas novas instâncias do problema são chamadas.
 
-##SuperMerge
+### SuperMerge
 Nesta abordagem o poblema será dividido em quatro subpartes e para cada uma é então executada um nova chamada recursiva.
 
 ## Testes
